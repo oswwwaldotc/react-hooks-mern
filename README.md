@@ -1,7 +1,7 @@
-# React, Hooks & MERN
-Curso tomado en Udemy por el instructor Fernando Herrera disponible [aquí](https://www.udemy.com/course/react-cero-experto/).
+# React, Hooks & MERN :atom_symbol:
+Curso tomado en Udemy por el instructor [Fernando Herrera](https://www.udemy.com/course/react-cero-experto/).
 
-# Notas importantes
+# Notas importantes :fountain_pen:
 Recursos gratuitos recomendados:
 - [Documentación oficial](https://reactjs.org/)
 - [React for beginners handbook](https://www.freecodecamp.org/news/react-beginner-handbook)
